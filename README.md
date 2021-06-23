@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
- ![ Alt text](https://imgur.com/a/J2UEcGE.gif) / ! [](https://imgur.com/a/J2UEcGE.gif)
+![](https://imgur.com/a/J2UEcGE.gif)
 
 https://imgur.com/a/J2UEcGE.gif
 
