@@ -32,7 +32,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src="https://imgur.com/a/J2UEcGE.gif"/>
 
-!(image)[https://static01.bbi.io/2Wt9Tk.gif]
+!(image)[https://imgur.com/a/J2UEcGE.gif]
 
 https://imgur.com/a/J2UEcGE.gif
 
