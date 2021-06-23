@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='imgur.com/a/J2UEcGE.gif' titte = 'Video Walkthrough' width = ' ' alt = 'Video Walkthrough' />
+<img src='https://imgur.com/a/J2UEcGE.gif' titte = 'Video Walkthrough' width = ' ' alt = 'Video Walkthrough' />
 
 https://imgur.com/a/J2UEcGE.gif
 
