@@ -14,7 +14,7 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 
-* [ \ ] Settings page to change the default tip percentage.
+* [ ] Settings page to change the default tip percentage.
 * [ ] UI animations
 * [ ] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
@@ -43,7 +43,6 @@ Describe any challenges encountered while building the app.
 
 List an 3rd party libraries, icons, graphics, or other assets you used in your app.
 
-- [AFNetworking](https://github.com/AFNetworking/AFNetworking) - networking task library
 - [AppIcon] (https://appicon.co/#app-icon)- for the logo app to work ok xcode
 - [Canva] (https://www.canva.com/q/pro/?v=2) - creating the logo
 
